@@ -5,18 +5,18 @@ It uses **Python, OpenCV, dlib, FER (Facial Emotion Recognition), and Streamlit*
 
 ---
 
-## 🚀 Features
+## Features
 - Real-time webcam emotion detection (happy, sad, angry, surprise, etc.)
 - Dynamic filters overlayed on the face:
-  - 🔥 Fire for "angry"
-  - 🌧️ Rain for "sad"
-  - 🎉 Confetti for "happy"
-  - 😲 Enlarged eyes/mouth for "surprise"
+  - Fire for "angry"
+  - Rain for "sad"
+  - Confetti for "happy"
+  - Enlarged eyes/mouth for "surprise"
 - Streamlit interface with start/stop webcam buttons
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Python 3**
 - [OpenCV](https://opencv.org/) – image processing
 - [dlib](http://dlib.net/) – facial landmarks
@@ -26,7 +26,7 @@ It uses **Python, OpenCV, dlib, FER (Facial Emotion Recognition), and Streamlit*
 
 ---
 
-## 📦 Installation
+## Installation
 ```bash
 git clone https://github.com/your-username/emotion-filters.git
 cd emotion-filters
