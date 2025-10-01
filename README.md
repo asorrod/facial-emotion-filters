@@ -22,7 +22,7 @@ It uses **Python, OpenCV, dlib, FER (Facial Emotion Recognition), and Streamlit*
 - [dlib](http://dlib.net/) – facial landmarks
 - [dlib-models](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2) - pre-trained model from dlib
 - [FER](https://github.com/justinshenk/fer) – emotion detection
-- [Streamlit](https://streamlit.io/) – interactive UI
+- [Streamlit](https://streamlit.io/) – Project ready to be deployed on Streamlit if desired
 
 ---
 
